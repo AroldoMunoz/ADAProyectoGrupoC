@@ -1,7 +1,7 @@
-# ADAProyectoGrupoC
-codigos para el proyecto de analisis de dise;o de algoritmos
+# Proyecto Ada Grupo C
+codigos para el proyecto de analisis de diseño de algoritmos
 
-## curso ADA
-Mu;oz Romani Aroldo G
-universidad nacinal de san agustin 
-segundo semestre 
+## Curso ADA
+Muñoz Romani Aroldo G.
+Universidad Nacional de San Agustin 
+Segundo semestre 2021 B
